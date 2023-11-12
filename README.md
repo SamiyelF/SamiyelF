@@ -3,7 +3,7 @@ Im interested in all things Robotics, programming, art, and math; im constantly 
 Im proficient in C, C++, C#, Python, Scratch (lol), XAML, MAUI
 
 I prefer to work in visual studio, but im flexible!
-Im currently working on a card game as a fundraiser for the afformentioned robotics team (heres a fundraiser if you want to support us: https://www.donorschoose.org/project/hacking-a-roomba/7817702), as well as the code that runs the robots!
+Im currently working on a card game as a fundraiser for the afformentioned robotics team (heres a different fundraiser if you want to support us: https://www.donorschoose.org/project/hacking-a-roomba/7817702), as well as the code that runs the robots!
 Ill collaborate with anything robotic, and im great with math if youre struggling there!
 Im almost completely self taught, so my code isnt the most elegant if youd like to refactor or just give some tips!
 Right now, im learning about web development with the goal of making a portfolio website.
