@@ -11,7 +11,9 @@ Right now, im learning about web development with the goal of making a portfolio
 if you'd like to reach out: 
 Email me: samiyelfrazier@gmail.com
 DM me: 
+
 	  Twitter: https://twitter.com/SamiyelF
+   
 	  Discord: https://discordapp.com/users/1042572568311378001
+   
 	  Reddit: https://www.reddit.com/user/SamiyelF
-  
